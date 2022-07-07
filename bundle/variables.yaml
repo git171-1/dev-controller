@@ -1,0 +1,4 @@
+variables:
+- team: git171-1
+- admin-user: git171-admin
+- manager-user: git171
